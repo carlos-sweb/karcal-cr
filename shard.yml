@@ -1,0 +1,17 @@
+name: karcal-cr
+version: 0.1.0
+
+authors:
+  - carlos-sweb <c4rl0sill3sc4@gmail.com>
+
+targets:
+  karkal-cr:
+    main: src/karcal-cr.cr
+
+dependencies:
+  lexbor:
+    github: kostya/lexbor
+
+crystal: '>= 1.15.1'
+
+license: MIT

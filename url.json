@@ -1,0 +1,8 @@
+{
+	"schema":"https",
+	"host":"www.karcal.cl",
+	"path":"Listado/Index/{auction}",
+	"query":{
+		"numPage":"1"
+	}
+}
