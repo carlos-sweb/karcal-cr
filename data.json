@@ -1,0 +1,737 @@
+[
+  {
+    "brand": "kia",
+    "model": "rio ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/05042025/38d65d14b1b749f3818e0b98bcb8f45c.jpg",
+    "link": "/94977/1"
+  },
+  {
+    "brand": "nissan",
+    "model": "versa  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/02042025/28776d8b530b4e8090c528424f5ae1c9.jpg",
+    "link": "/94999/2"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift  ",
+    "year": "2025",
+    "img": "https://www.karcal.cl/Repositorio/10042025/1dd67d90768b4a64bce717e945c2c9f9.jpg",
+    "link": "/94994/3"
+  },
+  {
+    "brand": "motoguzzi",
+    "model": "stelvio ",
+    "year": "2014",
+    "img": "https://www.karcal.cl/Repositorio/08042025/56e0b8f4757a4cad821aec02f2a57c27.jpg",
+    "link": "/95004/4"
+  },
+  {
+    "brand": "peugeot",
+    "model": "301 ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/07042025/7f0f0b5956d043ab91e878a53958ed33.jpg",
+    "link": "/95068/5"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20  ",
+    "year": "2020",
+    "img": "https://www.karcal.cl/Repositorio/09042025/dbb117579ca9481babb4afd8f4f6dc79.jpg",
+    "link": "/95062/6"
+  },
+  {
+    "brand": "mercedes benz",
+    "model": "gle ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/03042025/6739c49ac4164e8dad6a8a18a4c47f68.jpg",
+    "link": "/95016/7"
+  },
+  {
+    "brand": "aston martin",
+    "model": "rapide ",
+    "year": "2011",
+    "img": "https://www.karcal.cl/Repositorio/03042025/4ef24843619645f7b941fe0bcda2a6c4.jpg",
+    "link": "/95006/8"
+  },
+  {
+    "brand": "porsche",
+    "model": "macan s ",
+    "year": "2015",
+    "img": "https://www.karcal.cl/Repositorio/03042025/0984bd67ecbb4b70b9477d83fd5380e0.jpg",
+    "link": "/95005/9"
+  },
+  {
+    "brand": "porsche",
+    "model": "cayenne ",
+    "year": "2011",
+    "img": "https://www.karcal.cl/Repositorio/09042025/b6ca4af134514c7c9a8dd6e99ff2d4f7.jpg",
+    "link": "/94987/10"
+  },
+  {
+    "brand": "hyundai",
+    "model": "tucson  ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/07042025/872eb5af897c4634bbcb68259176da94.jpg",
+    "link": "/95029/11"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "captiva ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/03042025/a33160703c4a4df9b5f1139a5e399960.jpg",
+    "link": "/95012/12"
+  },
+  {
+    "brand": "ford",
+    "model": "territory ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/02042025/e0e4dd6c8bc340698533fc728730d338.jpg",
+    "link": "/94998/13"
+  },
+  {
+    "brand": "mg",
+    "model": "zs ",
+    "year": "2020",
+    "img": "https://www.karcal.cl/Repositorio/03042025/7af09374181c45c0851aabe7ea1637db.jpg",
+    "link": "/95015/14"
+  },
+  {
+    "brand": "bmw",
+    "model": "x1  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/10042025/86fc9aa71f284e6c85e2ee6b35524934.jpg",
+    "link": "/95063/15"
+  },
+  {
+    "brand": "audi",
+    "model": "a5 ",
+    "year": "2012",
+    "img": "https://www.karcal.cl/Repositorio/31032025/5a129746a71d41ca914b72b1fbdacaa0.jpg",
+    "link": "/94972/16"
+  },
+  {
+    "brand": "kia motors",
+    "model": "morning  ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/31032025/ece86d2b85494b3ca479dda19cbb0074.jpg",
+    "link": "/94960/17"
+  },
+  {
+    "brand": "peugeot",
+    "model": "208 ",
+    "year": "2019",
+    "img": "https://www.karcal.cl/Repositorio/04042025/805f8345763c4e74b2d366ab8547250c.jpg",
+    "link": "/95024/18"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "golf  ",
+    "year": "2016",
+    "img": "https://www.karcal.cl/Repositorio/31032025/62b528199180463cad0f1ebab4982f0a.jpg",
+    "link": "/94981/19"
+  },
+  {
+    "brand": "toyota",
+    "model": "new yaris ",
+    "year": "2016",
+    "img": "https://www.karcal.cl/Repositorio/04042025/1885377ed72d4a6a9c201bc244f63b8c.jpg",
+    "link": "/95056/20"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i30  ",
+    "year": "2013",
+    "img": "https://www.karcal.cl/Repositorio/04042025/fc9ab490ec40445292ab01017669d500.jpg",
+    "link": "/95060/21"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/04042025/0ef6739f086943d6a2b2918d59e8eea0.jpg",
+    "link": "/95053/22"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i ",
+    "year": "2013",
+    "img": "https://www.karcal.cl/Repositorio/02042025/6201970ac6ad4722a1a172dd93810120.jpg",
+    "link": "/94993/23"
+  },
+  {
+    "brand": "hyundai",
+    "model": "grand i10 ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/05042025/63d3f9e7176c43549280e616ac86a2af.jpg",
+    "link": "/94992/24"
+  },
+  {
+    "brand": "hyundai",
+    "model": "atos  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/07042025/7d0cb8d3323a4d04965cc4c206703841.jpg",
+    "link": "/95057/25"
+  },
+  {
+    "brand": "citroën",
+    "model": "c4  ",
+    "year": "2012",
+    "img": "https://www.karcal.cl/Repositorio/07042025/c471069c62c44c80842a71a2b2084d9d.jpg",
+    "link": "/95065/26"
+  },
+  {
+    "brand": "citroën",
+    "model": "c1  ",
+    "year": "2007",
+    "img": "https://www.karcal.cl/Repositorio/31032025/2737e343eb6c4dffb9932a3eb6094577.jpg",
+    "link": "/94982/27"
+  },
+  {
+    "brand": "citroën",
+    "model": "c1 ",
+    "year": "2011",
+    "img": "https://www.karcal.cl/Repositorio/07042025/3752dc3dfe4b4a3da056736296c57752.jpg",
+    "link": "/95010/28"
+  },
+  {
+    "brand": "nissan",
+    "model": "tiida sport ",
+    "year": "2013",
+    "img": "https://www.karcal.cl/Repositorio/03042025/acc8f6810d874c4ea8e2f52f55ce1e99.jpg",
+    "link": "/95011/29"
+  },
+  {
+    "brand": "suzuki",
+    "model": "spresso  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/09042025/a217cc3095a1487abaee76f02c9dd223.jpg",
+    "link": "/94961/30"
+  },
+  {
+    "brand": "mazda",
+    "model": "2 ",
+    "year": "2009",
+    "img": "https://www.karcal.cl/Repositorio/07042025/83e748127c5349fcaf45475094a59f01.jpg",
+    "link": "/95023/31"
+  },
+  {
+    "brand": "suzuki",
+    "model": "baleno  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/04042025/0f761ed5051f49798461823f7d37e3d2.jpg",
+    "link": "/95054/32"
+  },
+  {
+    "brand": "suzuki",
+    "model": "celerio  ",
+    "year": "2014",
+    "img": "https://www.karcal.cl/Repositorio/31032025/6acae6a0f0f444adabb6044a5ce09f1b.jpg",
+    "link": "/94973/33"
+  },
+  {
+    "brand": "suzuki",
+    "model": "celerio  ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/07042025/8ea907b70cc24996ae320686b2f36144.jpg",
+    "link": "/94989/34"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift  ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/07042025/98c95acdc9064290a02d514cfaa1602a.jpg",
+    "link": "/95025/35"
+  },
+  {
+    "brand": "changan",
+    "model": "unit ",
+    "year": "2025",
+    "img": "https://www.karcal.cl/Repositorio/07042025/324744e91dac4f67a5fb4a17819b173a.jpg",
+    "link": "/95018/36"
+  },
+  {
+    "brand": "changan",
+    "model": "cx70  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/04042025/60216c13b15548289acecc08e5a01e46.jpg",
+    "link": "/95019/37"
+  },
+  {
+    "brand": "changan",
+    "model": "cx70 otto ",
+    "year": "2020",
+    "img": "https://www.karcal.cl/Repositorio/05042025/57394c78528d467b8feaf6c709a74f22.jpg",
+    "link": "/95008/38"
+  },
+  {
+    "brand": "chery",
+    "model": "tiggo ",
+    "year": "2025",
+    "img": "https://www.karcal.cl/Repositorio/07042025/fda89405df9b456bbca8ab136456a808.jpg",
+    "link": "/95052/39"
+  },
+  {
+    "brand": "chery",
+    "model": "tiggo ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/07042025/373ddaaf1825496492b291a84bb5a9b3.jpg",
+    "link": "/94996/40"
+  },
+  {
+    "brand": "ford",
+    "model": "ecosport ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/09042025/6d7659c4edd940bcb8a482bffbadc77c.jpg",
+    "link": "/95013/41"
+  },
+  {
+    "brand": "suzuki",
+    "model": "sj ",
+    "year": "1987",
+    "img": "https://www.karcal.cl/Repositorio/07042025/b129ffe5a7e44838952a732cd4ba600a.jpg",
+    "link": "/95007/42"
+  },
+  {
+    "brand": "kia motors",
+    "model": "sorento ex ",
+    "year": "2015",
+    "img": "https://www.karcal.cl/Repositorio/03042025/c6b066700b2b41a3856cd072340bd511.jpg",
+    "link": "/95009/43"
+  },
+  {
+    "brand": "changan",
+    "model": "alsvin ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/05042025/6f24d298f3d641b1b81bfd0361894d51.jpg",
+    "link": "/94971/44"
+  },
+  {
+    "brand": "kia",
+    "model": "soluto ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/04042025/4a192017e9e44266a4beed6d684e121a.jpg",
+    "link": "/95050/45"
+  },
+  {
+    "brand": "kia",
+    "model": "soluto ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/07042025/db75acd3b9704293931d482d447f514c.jpg",
+    "link": "/94990/46"
+  },
+  {
+    "brand": "kia",
+    "model": "soluto ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/31032025/8877aedba8894387b3e82def48ca6e1b.jpg",
+    "link": "/94963/47"
+  },
+  {
+    "brand": "mg",
+    "model": "5 ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/04042025/a8538a6e3b624f0dbaf2f914c62107e4.jpg",
+    "link": "/95055/48"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "virtus  ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/07042025/de13de15bbfd40a0b18529f8290665ad.jpg",
+    "link": "/95051/49"
+  },
+  {
+    "brand": "mazda",
+    "model": "mx5  ",
+    "year": "2013",
+    "img": "https://www.karcal.cl/Repositorio/02042025/2c434e5d274c47db8c294fa09677a0ba.jpg",
+    "link": "/94988/50"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "voyage  ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/07042025/c346643a6f4f42959b5f7fded22852b5.jpg",
+    "link": "/95058/51"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "sail  ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/07042025/9a648c00a11b4d029136eb15bc7bf321.jpg",
+    "link": "/94968/52"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "spark  ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/04042025/f983c07769a64d3ebdd45a37a8047db4.jpg",
+    "link": "/95020/53"
+  },
+  {
+    "brand": "hyundai",
+    "model": "accent  ",
+    "year": "2016",
+    "img": "https://www.karcal.cl/Repositorio/04042025/25d1335f1af249d9902312e1b9a513f5.jpg",
+    "link": "/95021/54"
+  },
+  {
+    "brand": "kia motors",
+    "model": "rio ",
+    "year": "2013",
+    "img": "https://www.karcal.cl/Repositorio/04042025/bccc045f72f24e87aec6cae2df940fb7.jpg",
+    "link": "/95026/55"
+  },
+  {
+    "brand": "toyota",
+    "model": "avensis  ",
+    "year": "2012",
+    "img": "https://www.karcal.cl/Repositorio/08042025/8737177331b049b4903f85215161020e.jpg",
+    "link": "/95045/56"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "gol power ",
+    "year": "2012",
+    "img": "https://www.karcal.cl/Repositorio/08042025/33f89898167a497b9cfc5460dca8e99d.jpg",
+    "link": "/95014/57"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": "eclipse  ",
+    "year": "2020",
+    "img": "https://www.karcal.cl/Repositorio/07042025/06ba2ed161334a338f21bca9f9dbc057.jpg",
+    "link": "/95027/58"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": "outlander ",
+    "year": "2019",
+    "img": "https://www.karcal.cl/Repositorio/09042025/9308ac69707b449bbb65195c38875ca4.jpg",
+    "link": "/95064/59"
+  },
+  {
+    "brand": "peugeot",
+    "model": "2008 ",
+    "year": "2019",
+    "img": "https://www.karcal.cl/Repositorio/04042025/e3b899cd1a7c4b7183a9db924fff0a5b.jpg",
+    "link": "/95059/60"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4  ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/02042025/2478eb13ff7b484b80983ca4ddfb24fd.jpg",
+    "link": "/94997/61"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/31032025/1a980b3f9b2d4b82a11293eded060f72.jpg",
+    "link": "/94979/62"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4  ",
+    "year": "2020",
+    "img": "https://www.karcal.cl/Repositorio/02042025/216ec1f717af42b28cbf16658d024e36.jpg",
+    "link": "/94991/63"
+  },
+  {
+    "brand": "toyota",
+    "model": "rush ",
+    "year": "2019",
+    "img": "https://www.karcal.cl/Repositorio/05042025/988ce82bf85940f5a340d6647d93f00d.jpg",
+    "link": "/94978/64"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "virtus  ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/10042025/2dd0742cb11f4b70a3979caa39820fe5.jpg",
+    "link": "/95048/65"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet  ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/04042025/52bb5a21b07b49f2a8dafe6cf5628eb4.jpg",
+    "link": "/95049/66"
+  },
+  {
+    "brand": "kia motors",
+    "model": "sorento  ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/31032025/1995e5c9459d4269ad3bd39e155976e2.jpg",
+    "link": "/94980/67"
+  },
+  {
+    "brand": "mg",
+    "model": "zx ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/31032025/d645fb2e05ad46f1a3824e67f7c07f52.jpg",
+    "link": "/94962/68"
+  },
+  {
+    "brand": "mg",
+    "model": "zx  ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/09042025/5ff846013771429097017750de8d4274.jpg",
+    "link": "/95031/69"
+  },
+  {
+    "brand": "mazda",
+    "model": "all new ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/31032025/4d087abd8bd9416da16ac2e1168d4d15.jpg",
+    "link": "/94966/70"
+  },
+  {
+    "brand": "geely",
+    "model": "azkarra ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/05042025/d6c21e083aaf46658273d32d9b00555b.jpg",
+    "link": "/94995/71"
+  },
+  {
+    "brand": "geely",
+    "model": "new coolray ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/04042025/26c3e3f84ad44f3faf1906f138fd2a2d.jpg",
+    "link": "/95030/72"
+  },
+  {
+    "brand": "great wall",
+    "model": "m4  ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/09042025/da6310204ffa4f2fa9991a7f8b81c80e.jpg",
+    "link": "/94969/73"
+  },
+  {
+    "brand": "jeep",
+    "model": "all new ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/05042025/43ea4d7cea894e748976dd4e9fa4a570.jpg",
+    "link": "/95000/74"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "tracker  ",
+    "year": "2019",
+    "img": "https://www.karcal.cl/Repositorio/31032025/c5fca60d16d24d408615b2fe4e7ad9ff.jpg",
+    "link": "/94965/75"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "spin  ",
+    "year": "2017",
+    "img": "https://www.karcal.cl/Repositorio/09042025/7e386509d1804d8b88729600b329502a.jpg",
+    "link": "/94970/76"
+  },
+  {
+    "brand": "dfsk",
+    "model": "suv ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/04042025/1a2edec41daf48feb5628e5a34bdcbc9.jpg",
+    "link": "/95046/77"
+  },
+  {
+    "brand": "citroën",
+    "model": "c5 ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/07042025/3fc63c5d1c62490186329bcaf8ad04c6.jpg",
+    "link": "/95028/78"
+  },
+  {
+    "brand": "daihatsu",
+    "model": "new terios ",
+    "year": "2012",
+    "img": "https://www.karcal.cl/Repositorio/02042025/1053d12e221849eeaeb43e8b2dd9ca22.jpg",
+    "link": "/95002/79"
+  },
+  {
+    "brand": "ford",
+    "model": "escape ",
+    "year": "2014",
+    "img": "https://www.karcal.cl/Repositorio/04042025/25427961d5844076a2e6c6fbb0ab0aa0.jpg",
+    "link": "/95017/80"
+  },
+  {
+    "brand": "toyota",
+    "model": "hi lux ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/04042025/52032dc485534d8ea61e46e281ac9d32.jpg",
+    "link": "/95047/81"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "silverado  ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/08042025/31eba4f267324d01be86eafd148e4540.jpg",
+    "link": "/95022/82"
+  },
+  {
+    "brand": "dodge",
+    "model": "ram ",
+    "year": "2013",
+    "img": "https://www.karcal.cl/Repositorio/03042025/902a4f297f1745c2a6e7a92d3b2d7774.jpg",
+    "link": "/95003/83"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "colorado  ",
+    "year": "2010",
+    "img": "https://www.karcal.cl/Repositorio/09042025/03c7f136405642219489b351ec6bb7be.jpg",
+    "link": "/94976/84"
+  },
+  {
+    "brand": "ram",
+    "model": "700 ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/07042025/5ffe4d8231564b20a9a4115dc7b5b3c0.jpg",
+    "link": "/95034/85"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": "new l200 ",
+    "year": "2017",
+    "img": "https://www.karcal.cl/Repositorio/02042025/df599c8957f243b38d61f42d877e4061.jpg",
+    "link": "/94984/86"
+  },
+  {
+    "brand": "nissan",
+    "model": "np300  ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/02042025/5eaba5a610614fd3868f653d8724f99c.jpg",
+    "link": "/94985/87"
+  },
+  {
+    "brand": "great wall",
+    "model": "poer  ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/09042025/d28613b90e9a4d9f8e4044b988b3b65f.jpg",
+    "link": "/95035/88"
+  },
+  {
+    "brand": "jmc",
+    "model": "vigus l ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/04042025/9b277049aa55417f8879683d8119f965.jpg",
+    "link": "/95033/89"
+  },
+  {
+    "brand": "hyundai",
+    "model": "porter  ",
+    "year": "2015",
+    "img": "https://www.karcal.cl/Repositorio/09042025/99f4cbc8dc1d4c8abb203688df4cbdac.jpg",
+    "link": "/94964/90"
+  },
+  {
+    "brand": "foton",
+    "model": "tm3  ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/04042025/c1f56d79bca047a88e5fda220e1e1048.jpg",
+    "link": "/95061/91"
+  },
+  {
+    "brand": "kyc",
+    "model": "x5 plus ",
+    "year": "2024",
+    "img": "https://www.karcal.cl/Repositorio/04042025/af7b765e143340ad92aeccaa56fdd051.jpg",
+    "link": "/95036/92"
+  },
+  {
+    "brand": "hyundai",
+    "model": "porter  ",
+    "year": "2016",
+    "img": "https://www.karcal.cl/Repositorio/04042025/653538e8a8054faeb28db3efd2e270c5.jpg",
+    "link": "/95032/93"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "n400  ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/31032025/0a1e861e981f47b8a977f9db29bd11fd.jpg",
+    "link": "/94967/94"
+  },
+  {
+    "brand": "peugeot",
+    "model": "tepee  ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/02042025/3f0f0eaacfe441c4a5b728a77bf8069e.jpg",
+    "link": "/94986/95"
+  },
+  {
+    "brand": "peugeot",
+    "model": "rifter  ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/08042025/9615ab181c1244d8a7b42f5f84cd4892.jpg",
+    "link": "/94974/96"
+  },
+  {
+    "brand": "peugeot",
+    "model": "expert  ",
+    "year": "2015",
+    "img": "https://www.karcal.cl/Repositorio/31032025/e9efcd60038249b7a400578e88f7b5cc.jpg",
+    "link": "/94975/97"
+  },
+  {
+    "brand": "peugeot",
+    "model": "3008 ",
+    "year": "2023",
+    "img": "https://www.karcal.cl/Repositorio/04042025/ece50716b01d4f889492188a1725e72c.jpg",
+    "link": "/95037/98"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": "montero  ",
+    "year": "2022",
+    "img": "https://www.karcal.cl/Repositorio/04042025/e701607ff5f748079a5344af979b439b.jpg",
+    "link": "/95044/99"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": "montero  ",
+    "year": "2018",
+    "img": "https://www.karcal.cl/Repositorio/04042025/32ebf1286a624aa3a5d82cf80d4d46a9.jpg",
+    "link": "/95038/100"
+  },
+  {
+    "brand": "suzuki",
+    "model": "baleno  ",
+    "year": "2020",
+    "img": "https://www.karcal.cl/Repositorio/04042025/3532293272a240f69d499caee278d534.jpg",
+    "link": "/95039/101"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "caddy  ",
+    "year": "2017",
+    "img": "https://www.karcal.cl/Repositorio/04042025/60ae514367ed402c99555dc8f90ddec8.jpg",
+    "link": "/95040/102"
+  },
+  {
+    "brand": "kia motors",
+    "model": "cerato  ",
+    "year": "2009",
+    "img": "https://www.karcal.cl/Repositorio/04042025/304c8c85042d4bbe8512202e2640471d.jpg",
+    "link": "/95042/103"
+  },
+  {
+    "brand": "mitsubishi",
+    "model": "l200  ",
+    "year": "2021",
+    "img": "https://www.karcal.cl/Repositorio/04042025/72311fb6437e4249ae4440300d067d8e.jpg",
+    "link": "/95043/104"
+  },
+  {
+    "brand": "peugeot",
+    "model": "expert ",
+    "year": "2020",
+    "img": "https://www.karcal.cl/Repositorio/04042025/5ff0cc1792734c60839e24d178ddf835.jpg",
+    "link": "/95041/105"
+  }
+]

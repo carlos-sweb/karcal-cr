@@ -11,7 +11,10 @@ module ScrapyKarcal
   class GetItem
     def initialize(@auction : Int32, @numPag : Int32 = 1, @total_page : Int32 = 0)
       @cars = Array(Hash(String, String)).new
-      @url = URI.new(
+    end
+
+    def createUrl : URI
+      URI.new(
         scheme: "https",
         host: "www.karcal.cl",
         path: "/Listado/Index/" + @auction.to_s,
@@ -19,17 +22,21 @@ module ScrapyKarcal
       )
     end
 
-    def getCars(body : String) : Array(Hash(String, String))
+    def showCars : Array(Hash(String, String))
+      @cars
+    end
+
+    def getCars(body : String)
       parse = Lexbor.new body
       parse.css(".caluga-card").each do |node|
         car = Hash(String, String).new
         car["brand"] = node.css(".descripcion-bien > .nombre-bien:nth-child(1)").first.inner_text.downcase
         car["model"] = node.css(".descripcion-bien > .nombre-bien:nth-child(2)").first.inner_text.downcase
         car["year"] = node.css(".descripcion-bien > .nombre-bien:nth-child(3)").first.inner_text.downcase
+        car["img"] = node.css(".img-responsive").map(&.attribute_by("src")).first.to_s
         car["link"] = node.css("div:nth-child(1) >a:nth-child(1)").map(&.attribute_by("href")).first.to_s.downcase.gsub("/detalle/ficha", "")
         @cars.push(car)
       end
-      @cars
     end
 
     # Obtenemos el total de las paginas
@@ -38,26 +45,27 @@ module ScrapyKarcal
       parse.css("ul.pagination:last-child > li:not(.PagedList-skipToNext,.PagedList-skipToPrevious) > a").map(&.inner_text).to_a.size
     end
 
-    def get : Array(Hash(String, String))
-      client = HTTP::Client.new @url
+    def get
+      url = createUrl()
+      client = HTTP::Client.new url
       # maximo 5 segundosesperando
       client.connect_timeout = 5.seconds
       body = begin
-        response = client.get @url.request_target
+        response = client.get url.request_target
         response.body
       rescue ex
         nil
       end
       # revisamos si el total del las paginas se a definido en un numero real
       # en caso de ser menos uno se procede al analicis del total de paginas
-      if @total_page == -1
+      if @total_page == 0
         @total_page = getTotalPage(body.to_s)
       end
       getCars body.to_s
-    end
-
-    def getTotalPage
-      puts "Run getTotal Page ===> "
+      if @numPag < @total_page
+        @numPag += 1
+        self.get
+      end
     end
   end
 end
@@ -105,7 +113,9 @@ module Karkal::Cr
 
   if auction != 0 && !auction.nil?
     k = ScrapyKarcal::GetItem.new auction.not_nil!.to_i32
-    puts k.get.to_pretty_json
+    k.get
+    puts k.showCars.to_pretty_json
+    File.write("./data.json", k.showCars.to_pretty_json)
   else
     puts "Hubo un Error con auction .("
   end

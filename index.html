@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Poetsen+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+<style>
+	*{
+
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+
+	}
+</style>
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <div class="grid" id="app">
+      	
+      </div>
+    </div>
+  </section>
+  <script src="https://unpkg.com/mithril/mithril.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+	<script>
+	var root = document.getElementById("app")
+
+	const CardCar = function( info ){
+		console.log(info);
+		return m("div.card",[
+				m("div.card-image",m("figure.image is-4by3",m("img",{
+					"src":info.img
+				}))),
+				m("div.card-content",info.brand)
+			])
+	}
+
+	axios.get("data.json").then(function(response){
+		const d = response.data
+		m.mount(root,{
+		view: function(){			
+			const temp = [];
+			for(const iterator in d){
+				temp.push( CardCar(d[iterator]) )
+			}
+			return temp;
+		}
+		})
+	})
+
+	
+
+	
+
+
+	// your code goes here!
+	</script>
+  </body>
+</html>
